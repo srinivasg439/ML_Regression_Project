@@ -78,4 +78,7 @@ To stop docker container
 ```````
 docker stop <container-id>
 
+Install ipykernel : It is used to setup the jupyternotebook(ipynb file) inside VS code IDE.
+``````````````````
+pip install ipykernel
 
